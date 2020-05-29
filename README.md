@@ -15,7 +15,7 @@ La aplicacion `indicators-client` consume dos API dispuestas por `indicators-api
 
 Para el correcto uso de la aplicación se debe ejecutar en siguiente orden:
 
-1. `indicators-api`
-2. `indicators-client`
+1. [indicators-api](https://github.com/maurofokker/react-springboot-indicators/tree/master/indicators-api)
+2. [indicators-client](https://github.com/maurofokker/react-springboot-indicators/tree/master/indicators-client)
 
 Más información sobre tecnología y modo de ejecución en el README de cada proyecto.
